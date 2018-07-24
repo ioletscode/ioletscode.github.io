@@ -4,7 +4,7 @@ title: IOletscode
 email: N/A
 
 
-baseurl: /ioletscode
+baseurl: /
 
 sass:
  style: compressed
