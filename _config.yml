@@ -1,10 +1,10 @@
 #Created by webjeda - http://webjeda.com
 
-title: Bheema #Keep it short
-email: your@email.com
+title: IOletsCODE #Keep it short
+email: private
 
 
-baseurl: /bheema
+baseurl: ""
 
 sass:
  style: compressed
